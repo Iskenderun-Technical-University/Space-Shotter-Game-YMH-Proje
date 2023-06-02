@@ -1,7 +1,7 @@
 # Space-Shotter-Game-YMG-Proje
 
 Visual Studio içinde WPF ve C# kullanarak 2d basit bir uzay savaş oyunu.
-Düşman gemileri olacak, gemiler  oyuncuya doğru hareket edicek, klayveyi kullanarak oyuncu sağa ve sola hareket edicek
+Düşman gemileri olacak, gemiler  oyuncuya doğru hareket edicek, klayve kullanılarak oyuncu sağa sola hareket ettirilecek ve düşmanlar ateş edilerek öldürülecek.
 
 UML
 
